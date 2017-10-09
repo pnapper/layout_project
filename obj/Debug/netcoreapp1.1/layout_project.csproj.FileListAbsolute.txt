@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/layout_project/bin/Debug/netcoreapp1.1/layout_project.deps.json
+/Users/Guest/Desktop/layout_project/bin/Debug/netcoreapp1.1/layout_project.runtimeconfig.json
+/Users/Guest/Desktop/layout_project/bin/Debug/netcoreapp1.1/layout_project.runtimeconfig.dev.json
+/Users/Guest/Desktop/layout_project/obj/Debug/netcoreapp1.1/layout_project.AssemblyInfo.cs
+/Users/Guest/Desktop/layout_project/bin/Debug/netcoreapp1.1/layout_project.dll
+/Users/Guest/Desktop/layout_project/bin/Debug/netcoreapp1.1/layout_project.pdb
+/Users/Guest/Desktop/layout_project/obj/Debug/netcoreapp1.1/layout_project.dll
+/Users/Guest/Desktop/layout_project/obj/Debug/netcoreapp1.1/layout_project.pdb
